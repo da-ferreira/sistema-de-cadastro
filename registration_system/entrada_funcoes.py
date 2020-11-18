@@ -143,3 +143,4 @@ def mensagem(texto, caractere='-', cor_linhas='l', cor_texto='l'):
     print(f'{cor[cor_linhas]}{caractere * (len(texto) + 2)}{cor["l"]}')
     print(f' {cor[cor_texto]}{texto}{cor["l"]} ')
     print(f'{cor[cor_linhas]}{caractere * (len(texto) + 2)}{cor["l"]}')
+   
