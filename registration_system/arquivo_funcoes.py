@@ -38,3 +38,5 @@ def mostrar_dados(nome_arquivo):
         abrir.close()
         print(f'{cor["cyan"]}Arquivo inexistente. Arquivo "{nome_arquivo}" criado com sucesso.{cor["l"]}')
     print('¬¬¬' * 33)
+              
+              
