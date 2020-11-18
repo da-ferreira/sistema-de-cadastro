@@ -33,3 +33,4 @@ def continuar():
         print(f'{cor["red"]}ERRO:{cor["cyan"]} por favor, informe somente S(sim) ou N(não).{cor["l"]}')
         continuar = input('Quer continuar? [S/N] ').strip().upper()[0]
     return continuar
+    
