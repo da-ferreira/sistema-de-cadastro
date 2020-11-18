@@ -20,3 +20,4 @@ while True:
         break
    
 linha('Volte sempre!', caractere='~=~')
+    
